@@ -13,3 +13,4 @@ Remote work platform:
 
 Remote work statistics: https://remoteok.com/remote-work-statistics
 
+Salary: https://www.salarytics.com/
