@@ -26,4 +26,25 @@ https://mytodo.vip/#
 
 
 学习进度：
+领域 1： SDLC 自动化
 
+任务陈述 1： 实施 CI/CD 管道。
+
+掌握以下知识：
+
+• 软件开发生命周期 (SDLC) 概念、阶段和模型
+
+• 单账户和多账户环境的管道部署模式
+
+具备以下技能：
+
+• 配置代码、映像和构件存储库
+
+• 使用版本控制将管道与应用程序环境集成在一起
+
+• 设置构建流程（例如 AWS CodeBuild）
+
+• 管理构建和部署密钥（例如 AWS Secrets Manager、AWS Systems Manager Parameter
+Store）
+
+• 确定相应的部署策略（例如 AWS CodeDeploy）
